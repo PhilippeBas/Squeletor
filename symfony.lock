@@ -117,6 +117,9 @@
     "php": {
         "version": "7.4"
     },
+    "php-curl-class/php-curl-class": {
+        "version": "2.0.0"
+    },
     "phpdocumentor/reflection-common": {
         "version": "2.0.0"
     },
